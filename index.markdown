@@ -4,6 +4,7 @@
 
 permalink: /index/
 layout: default
+title: Nicholas Gaubatz
 ---
 
 # Welcome!
