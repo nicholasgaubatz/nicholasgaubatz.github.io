@@ -21,7 +21,7 @@
 title: Nicholas Gaubatz
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the official webpage of Nicholas Gaubatz! Nicholas is a Graduate Teaching Assistant 
+  The official webpage of Nicholas Gaubatz: Graduate Teaching Assistant 
   (GTA) at Auburn University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

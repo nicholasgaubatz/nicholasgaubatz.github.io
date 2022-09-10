@@ -8,4 +8,8 @@ title: Nicholas Gaubatz
 ---
 
 # Welcome!
-This site is under construction. Please visit again later!
+My name is Nicholas Gaubatz. I am a first-year Mathematics PhD student and Graduate Teaching Assistant at Auburn University.
+
+<img src="../headshot1.jpg" width="310" height="552">
+
+This site is currently under construction. Please visit later for more updates.
