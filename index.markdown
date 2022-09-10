@@ -12,4 +12,4 @@ My name is Nicholas Gaubatz. I am a first-year Mathematics PhD student and Gradu
 
 <img src="../headshot1.jpg" width="310" height="552">
 
-This site is currently under construction. Please visit later for more updates.
+This site is currently under construction. Please visit later for more updates!
