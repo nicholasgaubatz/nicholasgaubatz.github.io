@@ -29,9 +29,9 @@ instagram_username: gau.batmobile
 linkedin_username: nicholas-gaubatz
 github_username:  nicholasgaubatz
 
-header_pages:
-  - about.html
-  - test.html
+#header_pages:
+#  - about.markdown
+#  - test.markdown
 
 # Build settings
 theme: minima
