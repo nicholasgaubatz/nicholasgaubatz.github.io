@@ -2,7 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: z-my-default
+layout: z-my-page
+title: Bio
+permalink: /bio/
 ---
 
 My name is Nicholas Gaubatz. I am a Mathematics PhD student at Auburn University in Auburn, Alabama.
