@@ -7,6 +7,9 @@ title: Bio
 permalink: /bio/
 ---
 
+<center><img src="/assets/images/chalkboard-reu-talk.jpg" width="400" height="auto" /></center>
+<br>
+
 My name is Nicholas Gaubatz. I am a Mathematics PhD student at Auburn University in Auburn, Alabama.
 
 I grew up in Illinois, and I have always been interested in math, video games, and music. I have seriously played the piano since age 7 and the organ since age 13, and I dabble in the guitar and violin. I used to professionally play the piano and organ at various Catholic churches in my home area until the pandemic hit. My absolute favorite composer is Chopin. In high school, my favorite organizations were the math team, scholar bowl, band/choir, and the golf team. Additionally, my favorite video games are Minecraft, The Elder Scrolls V: Skyrim, and God of War.

@@ -4,7 +4,7 @@ title: Tutoring
 permalink: /tutoring/
 ---
 
-I am currently accepting students for Spring 2023 mathematics private tutoring. Please feel free to contact me at my email below to see my rate or schedule a time.
+I am currently accepting students for private tutoring for Spring 2023 mathematics and statistics classes. Please feel free to contact me at my email below to see my rates or schedule a time.
 
 I have a year of experience as a tutor in the Department of Mathematics & Statistics at Murray State, and I have privately tutored 4 students at Auburn in the following classes as of 2023:
   - MATH 1000: College Algebra

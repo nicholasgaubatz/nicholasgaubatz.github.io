@@ -9,4 +9,4 @@ Hello!
 
 Welcome to my webpage. As of the 2022-23 academic year, I am a first-year Mathematics Ph.D. student at Auburn University in Auburn, AL.
 
-<center><img src="assets/images/Sample-PNG-Image.png" width="400" height="auto" /></center>
+<center><img src="assets/images/headshot-fall2022-square.jpg" width="400" height="auto" /></center>
