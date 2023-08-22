@@ -4,7 +4,7 @@ title: A day in the life of a mathematics REU participant
 permalink: /research/auburn-reu
 ---
 
-My REU at Auburn University in 2021 was the most formative experience in my mathematics education.
+My REU at Auburn University in 2021 was the most formative experience in my undergraduate mathematics education outside of my coursework.
 
 My goal is to outline my experience in this program. I remember applying to REUs throughout my undergraduate career, and I would have really benefitted from a rundown on what to expect. Of course, every REU is unique, but this was my experience.
 
