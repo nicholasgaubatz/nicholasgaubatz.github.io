@@ -23,7 +23,7 @@ Below is a list of my PhD coursework at Auburn University.
 **Spring 2023** (first year):
  - Algebra II 
    - [*Algebra*](https://www.amazon.com/Algebra-2nd-Michael-Artin/dp/0132413779) by Artin
- - Graph Theory II
+ - Advanced Topics in Graph Theory
    - No textbook, but emphasized rainbow matchings
  - Probability II
    - [*Probability: Theory and Measure*](https://www.amazon.com/Probability-Measure-Patrick-Billingsley/dp/0471007102/ref=pd_lpo_sccl_1/147-6712267-2375062?pd_rd_w=1BeEH&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=FSJJ0C362HASJMYV4NPW&pd_rd_wg=gOGES&pd_rd_r=d8074137-05de-4697-8a3c-5ef3f645c577&pd_rd_i=0471007102&psc=1) by Billingsley
@@ -32,7 +32,7 @@ Below is a list of my PhD coursework at Auburn University.
 **Fall 2022** (first year):
  - Algebra I
    - [*Algebra*](https://www.amazon.com/Algebra-2nd-Michael-Artin/dp/0132413779) by Artin
- - Graph Theory I
+ - Graph Theory
    - No textbook
  - Probability I
    - [*Probability: Theory and Measure*](https://www.amazon.com/Probability-Measure-Patrick-Billingsley/dp/0471007102/ref=pd_lpo_sccl_1/147-6712267-2375062?pd_rd_w=1BeEH&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=FSJJ0C362HASJMYV4NPW&pd_rd_wg=gOGES&pd_rd_r=d8074137-05de-4697-8a3c-5ef3f645c577&pd_rd_i=0471007102&psc=1) by Billingsley
