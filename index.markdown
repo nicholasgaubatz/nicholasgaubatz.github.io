@@ -10,3 +10,5 @@ Hello!
 Welcome to my webpage. As of the 2023-24 academic year, I am a second-year Mathematics Ph.D. student at Auburn University in Auburn, AL.
 
 <center><img src="assets/images/headshot-fall2022-square.jpg" width="400" height="auto" /></center>
+
+[Here](./test/) is an interactive version of the grid out-neighbor problem I'm currently working on with a few other grad students in the department.
