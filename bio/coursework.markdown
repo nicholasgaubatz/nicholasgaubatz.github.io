@@ -6,6 +6,25 @@ permalink: /bio/coursework
 
 Below is a list of my PhD coursework at Auburn University.
 
+**Spring 2025** (third year):
+ - Database Systems I
+ - Machine Learning
+ - Applied Multivariate Statistical Analyis
+
+**Fall 2024** (third year):
+ - Data Mining
+ - Regression Analysis
+ - Ring Theory
+   - [*Introduction to Commutative Algebra*](https://www.amazon.com/Introduction-Commutative-Algebra-Addison-Wesley-Mathematics/dp/0201407515) by Atiyah and MacDonald
+
+**Spring 2024** (second year):
+ - Introduction to Algebraic Topology II
+   - [*Algebraic Topology*](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html) by Hatcher
+ - Algebraic Geometry
+   - [*Basic Algebraic Geometry 1*](https://link.springer.com/book/10.1007/978-3-642-37956-7) by Shafarevich
+ - Statistical Learning
+   - [*An Introduction to Statistical Learning with Applications in R*](https://www.statlearning.com/) by James, Witten, Hastie, and Tibshirani
+
 **Fall 2023** (second year):
  - Introduction to Lie Groups 
    - [*Lie Groups*](https://link.springer.com/book/10.1007/978-1-4614-8024-2) by Bump
