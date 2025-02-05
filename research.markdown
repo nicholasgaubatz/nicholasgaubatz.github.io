@@ -7,9 +7,9 @@ permalink: /research/
 I have conducted research in various areas of mathematics, data science, and computer science. My advisors are Mark Carpenter (Statistics) and Hal Schenck (Algebraic Geometry), and I am currently working on projects in both fields. 
 
 Original publications/writings:
-  - ["An FDA Preprocessing Approach to Neural Network Multiclass Missile Classification and Waypoint Prediction"](https://arc.aiaa.org/doi/abs/10.2514/6.2025-2096), a paper coauthored with Dr. Mark Carpenter (one of my advisors) and Dr. Roy Hartfield (aerospace engineering).
-  - ["Friends in Z_n"](http://ijmcs.future-in-tech.net/17.2/R-Gaubatz-Johnson.pdf), a paper coauthored with Dr. Peter Johnson at my Auburn REU.
-  - [Quantum Dimension Polynomials: A Networked-Numbers Game Approach](https://digitalcommons.murraystate.edu/honorstheses/127/), my Honors Thesis at Murray State.
+  1. ["An FDA Preprocessing Approach to Neural Network Multiclass Missile Classification and Waypoint Prediction"](https://arc.aiaa.org/doi/abs/10.2514/6.2025-2096), a paper coauthored with Dr. Mark Carpenter and Dr. Roy Hartfield (aerospace engineering).
+  2. ["Friends in Z_n"](http://ijmcs.future-in-tech.net/17.2/R-Gaubatz-Johnson.pdf), a paper coauthored with Dr. Peter Johnson at my Auburn REU.
+  3. [Quantum Dimension Polynomials: A Networked-Numbers Game Approach](https://digitalcommons.murraystate.edu/honorstheses/127/), my Honors Thesis at Murray State.
 
 Major graduate school experiences so far:
   - [AIAA SciTech forum](https://www.aiaa.org/SciTech): conference in Orlando, FL, January 6 through January 10, 2025.
