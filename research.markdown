@@ -13,6 +13,8 @@ Original publications/writings:
 
 Major graduate school experiences so far:
   - [AIAA SciTech forum](https://www.aiaa.org/SciTech): conference in Orlando, FL, January 6 through January 10, 2025.
+  - A talk at my department's Fall 2024 Graduate Student Seminar about my research experiences in grad school: the below project, algebraic geometry research, and the above FDA paper.
+  - A talk at my department's Combinatorics Seminar: a project titled "Minimal sizes of out-neighborhoods in the $F$-lattice", joint work with Sean Grate and Haile Gilroy.
   - [Multigraded and differential graded methods in commutative algebra](https://www.slmath.org/summer-schools/1115): Summer Graduate School at St. Mary's College, July 29 through August 9, 2024.
   - [Macaulay2, Computational Algebraic Geometry and String Theory](https://sites.google.com/view/utahm2stringtheory/home): workshop and conference at the University of Utah, May 28 through June 5, 2024.
   - [A talk at my department's Fall 2023 Graduate Student Seminar](/research/gss-talk-f23) about an independent project conducted during my Spring 2023 Algebra independent study with my advisor Hal Schenck.
