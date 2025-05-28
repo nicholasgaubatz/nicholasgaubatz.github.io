@@ -16,6 +16,8 @@ Welcome to our Crab Rangoon Blog! We like crab rangoon, so we decided to start r
 
 [August Moon](/misc/locations/august-moon-murray)
 
+[Fulin's Asian Cuisine](/misc/locations/fulins-huntsville)
+
 ### ⭐⭐⭐⭐
 
 

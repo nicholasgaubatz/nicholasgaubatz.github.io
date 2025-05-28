@@ -1,7 +1,7 @@
 ---
 layout: z-my-page
 title: Fulin's
-permalink: /misc/locations/panda-auburn
+permalink: /misc/locations/fulins-huntsville
 ---
 
 Location:
