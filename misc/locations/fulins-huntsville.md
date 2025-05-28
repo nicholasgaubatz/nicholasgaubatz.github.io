@@ -5,7 +5,7 @@ permalink: /misc/locations/fulins-huntsville
 ---
 
 Location:
-1619 S College St, Auburn, AL 36832
+8141 Hwy 72 W C, Madison, AL 35758
 
 Date: May 24, 2025
 
