@@ -7,7 +7,7 @@ layout: z-my-default
 
 Hello!
 
-Welcome to my webpage. As of the 2024-25 academic year, I am a third-year Mathematics Ph.D. student at Auburn University in Auburn, AL. My research interests lie in the union of algebraic geometry and data science. My advisors are [Mark Carpenter](https://www.linkedin.com/in/d-mark-carpenter-13b1305b/) and [Hal Schenck](https://webhome.auburn.edu/~hks0015/).
+Welcome to my webpage. As of the 2025-26 academic year, I am a fourth-year Mathematics Ph.D. student at Auburn University in Auburn, AL. My research interests lie in the union of algebraic geometry and data science. My advisors are [Mark Carpenter](https://www.linkedin.com/in/d-mark-carpenter-13b1305b/) and [Hal Schenck](https://webhome.auburn.edu/~hks0015/), and I plan to graduate in May 2026.
 
 Some popular pages are my [bio](/bio) and [research info](/research).
 
