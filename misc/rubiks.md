@@ -11,11 +11,11 @@ The [beginner's guide](https://solvethecube.com/) is a nice starting point, as y
 [As many competitions do](https://en.wikipedia.org/wiki/Speedcubing#Format), I use a trimmed mean of five to record my results. I randomly scramble and solve the cube 5 times, remove the best and worst times, and finally average the remaining 3 for a final score. Additionally, upon finishing the scramble, I get 15 seconds of inspection time before the timer starts (I'm never too strict about this, though). A good goal I have each time is to mentally map out the first few moves to get 2 or 3 pieces of the first cross together.
 
 On 4/16/26, here are my results using the beginner method:
-1. ~2:19~
+1. ~~2:19~~
 2. 1:57
 3. 2:00
 4. 2:15
-5. ~1:52~
+5. ~~1:52~~
 
 Average: **2:04**
 
@@ -23,9 +23,9 @@ Pretty fun, but I knew I could do much better. I moved on to the [speedcubing pa
 
 After spending a week doing this, here are some results on 4/23/26:
 1. 1:39
-2. ~1:13~
+2. ~~1:13~~
 3. 1:23
-4. ~1:46~
+4. ~~1:46~~
 5. 1:23
 
 Average: **1:28**
